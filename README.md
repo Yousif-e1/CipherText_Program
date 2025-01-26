@@ -15,6 +15,7 @@ Encrypt:
 
 - Input: hello world (key: 3)
 - Output: khoor zruog
+
 Decrypt:
 
 - Input: khoor zruog (key: 3)
