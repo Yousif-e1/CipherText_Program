@@ -5,7 +5,6 @@ def enc_dec(text, mode, shift):
         if char.isalpha():
             if char.isupper():
                 start = ord('A')
-                # في حالة التشفير أو فك التشفير يتم تعديل الإزاحة بشكل صحيح
                 new_char = chr((ord(char) - start + (shift if mode == 'E' else -shift)) % 26 + start)
                 result += new_char
             else:
