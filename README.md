@@ -13,9 +13,9 @@ This is a program that takes a message or text from the user and encrypts or dec
 # Example
 Encrypt:
 
-Input: hello world (key: 3)
-Output: khoor zruog
+- Input: hello world (key: 3)
+- Output: khoor zruog
 Decrypt:
 
-Input: khoor zruog (key: 3)
-Output: hello world
+- Input: khoor zruog (key: 3)
+- Output: hello world
