@@ -7,9 +7,9 @@ This is a program that takes a message or text from the user and encrypts or dec
 3) Enter a key (1-26).
 4) Input the text.
 # Features
-.) Encrypts and decrypts text.
-.) Handles spaces and non-alphabetic characters without changes.
-.)Wraps letters at the alphabet's boundaries.
+1) Encrypts and decrypts text.
+2) Handles spaces and non-alphabetic characters without changes.
+3) Wraps letters at the alphabet's boundaries.
 # Example
 Encrypt:
 
